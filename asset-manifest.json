@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a0665d5e.css",
+    "main.js": "/static/js/main.b482f30d.js",
+    "static/media/user.svg": "/static/media/user.2f9f3f76b9e069597d435e84c7023038.svg",
+    "static/media/heart-unliked.svg": "/static/media/heart-unliked.5103e3475100bd1688951eeda08ffe35.svg",
+    "static/media/btn-checked.svg": "/static/media/btn-checked.4bd49de75a0e5a3ef4c2aa960665057e.svg",
+    "static/media/heart.svg": "/static/media/heart.2f448e413de82185ed4adb48a31bc648.svg",
+    "static/media/heart-liked.svg": "/static/media/heart-liked.9b9476985ff38b5fb1aaac6ddcc9946d.svg",
+    "static/media/cart.svg": "/static/media/cart.ba18fd68e34c7a2af11325b2659516e2.svg",
+    "static/media/search.svg": "/static/media/search.48c52bf5d459537e27c07f88eb08c050.svg",
+    "static/media/btn-remove.svg": "/static/media/btn-remove.b1fef0aa93fbf25374f4991d23f900d8.svg",
+    "static/media/btn-plus.svg": "/static/media/btn-plus.b88e94c67ea7ac0cfa69033241c96b8c.svg",
+    "index.html": "/index.html",
+    "static/media/arrow.svg": "/static/media/arrow.fc3222511ec5a224a4abf3bbf4c2566f.svg",
+    "main.a0665d5e.css.map": "/static/css/main.a0665d5e.css.map",
+    "main.b482f30d.js.map": "/static/js/main.b482f30d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0665d5e.css",
+    "static/js/main.b482f30d.js"
+  ]
+}
